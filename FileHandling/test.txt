@@ -1,0 +1,5 @@
+This is a test file for demonstrating file handling in Java.
+
+
+FileWriter()= 'this is used for small text file'
+BufferWriter()= 
