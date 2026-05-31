@@ -1,11 +1,9 @@
-package ObjectConcept;
 
-public class Student {
-    String name;
-    String id;
-    int age;
-    Student(String name, String id, int age){
-        
+
+public class Student extends Person{
+    String studentId;
+
+    Student( String studentId){
+        this.studentId = studentId;
     }
-    
 }
